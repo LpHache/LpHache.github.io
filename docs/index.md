@@ -7,6 +7,18 @@ See also:
 [Will's Game Reviews](https://www.wleclerc.ca/gaming)  
 [Simon's Game Reviews](https://simon-thompson.github.io/reviews)
 
+## 2026
+[Jedi Knight II Mysteries of the Sith](reviews/2026/mysteriesofthesith.md)<br/>
+
+## 2025
+[Neva](reviews/2025/neva.md)<br/>
+[Dredge](reviews/2025/dredge.md)<br/>
+[Balatro](reviews/2025/balatro.md)<br/>
+[Ghostrunner II](reviews/2025/ghostrunner2.md)<br/>
+[Helldivers 2](reviews/2025/helldivers2.md)<br/>
+[Avatar: Frontiers of Pandora](reviews/2025/avatarfrontiers.md)<br/>
+[Warframe](reviews/2025/warframe.md)<br/>
+
 ## 2024
 [Elden Ring](reviews/eldenring.md)<br/>
 [Total War Warhammer III](reviews/totalwarwarhammeriii.md)<br/>

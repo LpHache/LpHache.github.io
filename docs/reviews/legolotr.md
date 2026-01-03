@@ -1,7 +1,7 @@
 # Lego Lord of the Rings
 <img style="float: left; padding-right:20px;" src="https://upload.wikimedia.org/wikipedia/en/a/a0/Lego_Lord_of_the_Rings_cover.jpg" alt="cover art" width="200"/>
 
-#### **Score: 7/10**
+#### **Score: 6/10**
 
 ###### **Playtime: 10 hours**
 
@@ -15,7 +15,7 @@
 **Lego Lord of the Rings** is, as the name implies, the Lego version of the Lord of the Rings trilogy in game form. You switch between all the fellowship characters as you go throw all the main action story beats that are in the movies. In between missions there is an open world where you can solve a bunch of puzzles using all the characters, do simple quests, and hunt for all the collectibles / achievments.<br/>
 
 #### **Final Opinion**
-As my first Lego game, I sort of expected going into it that it would be a more silly interpretation of the movies with loads of visual gags. I was so wrong. It's mostly a 11 to 1 recreation of the movies including copied voice lines. I was so disappointed there was no innovation at all of anything to look forward to story wise once I caught on. The missions were decent enough though with good simple puzzles and stuff so I still enjoyed my time doing those at least. I was annoyed that I couldn't even explore the map properly because you could only solve a bunch of challenges on a second playthrough. I'd only recommend if you want to play a LOTR themed collect-a-thon and want to focus on anything except the main story of the game.
+As my first Lego game, I sort of expected going into it that it would be a more silly interpretation of the movies with loads of visual gags. I was so wrong. It's mostly a 1 to 1 recreation of the movies including copied voice lines. I was so disappointed there was no innovation at all of anything to look forward to story wise once I caught on. The missions were decent enough though with good simple puzzles and stuff so I still enjoyed my time doing those at least. I was annoyed that I couldn't even explore the map properly because you could only solve a bunch of challenges on a second playthrough. I'd only recommend if you want to play a LOTR themed collect-a-thon and want to focus on anything except the main story of the game.
 
 
 #### **The Good**

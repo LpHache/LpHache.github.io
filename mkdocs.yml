@@ -2,6 +2,16 @@ site_name: Louis' Game Reviews
 nav:
   - Home: index.md
   - Ranked by Score: scores.md
+  - '2026':
+    - Jedi Knight II Mysteries of the Sith: reviews/2026/mysteriesofthesith.md
+  - '2025':
+    - Neva: reviews/2025/neva.md
+    - Dredge: reviews/2025/dredge.md
+    - Balatro: reviews/2025/balatro.md
+    - Ghostunner II: reviews/2025/ghostrunner2.md
+    - Helldivers 2: reviews/2025/helldivers2.md
+    - Avatar Frontiers of Pandora: reviews/2025/avatarfrontiers.md
+    - Warframe: reviews/2025/warframe.md
   - '2024':
     - Elden Ring: reviews/eldenring.md
     - Total War Warhammer III: reviews/totalwarwarhammeriii.md

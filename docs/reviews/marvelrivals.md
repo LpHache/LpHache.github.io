@@ -22,7 +22,7 @@ All things considered I like this game a lot. I can see msyelf playing it casual
 **+++ Visual design is cool.** The game has a good visual style that matches the comic book feel in my opinion. The characters and maps are very vibrant and flashy.<br/>
 **+++ The menu is actually really nice.** I think they did a great job with the individual hero pages having their own intros, plus you can see all the cosmetics for the hero in one place (looking at you R6) as well as lore stories. The career page is also very clear. Only the battlepass page could use some improvements.<br/>
 **++ Decent monetization.** Worth noting that all heroes are free to play from the get go which is always appreciated. The battlepass does include a nice free skin and it was pretty cheap to unlock it as well (5 USD). No other loot boxes or weird monetization.<br/>
-**++Smooth launch.** I didn't have any major issues with bugs, crashes or performance during launch week at all. Pretty impressive.<br/>
+**++ Smooth launch.** I didn't have any major issues with bugs, crashes or performance during launch week at all. Pretty impressive.<br/>
 
 #### **The Bad**
 **- Tanks are a bit lacking.** Can't quite put my finger on why, but they don't feel as good to play as in Overwatch. Much ahrder to perform decently without constant heals.<br/>
