@@ -29,6 +29,7 @@
 [Ghostrunner II](reviews/2025/ghostrunner2.md)<br/>
 [Helldivers II](reviews/2025/helldivers2.md)<br/>
 [SW JKII Mysteries of the Sith](reviews/2026/mysteriesofthesith.md)<br/>
+[Shogun Showdown](reviews/2026/shogunshowdown.md)<br/>
 
 #### 8
 [Halo Infinite](reviews/haloinfinite.md)<br/>
