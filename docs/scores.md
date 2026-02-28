@@ -19,6 +19,7 @@
 [Hi-Fi Rush](reviews/hifirush.md)<br/>
 [Marvel Rivals](reviews/marvelrivals.md)<br/>
 [Warframe](reviews/2025/warframe.md)<br/>
+[Viewfinder](reviews/2026/viewfinder.md)<br/>
 
 #### 8.5
 [Plague Tale: Requiem](reviews/plaguetalerequiem.md)
@@ -30,6 +31,7 @@
 [Helldivers II](reviews/2025/helldivers2.md)<br/>
 [SW JKII Mysteries of the Sith](reviews/2026/mysteriesofthesith.md)<br/>
 [Shogun Showdown](reviews/2026/shogunshowdown.md)<br/>
+[Ball X Pit](reviews/2026/ballxpit.md)<br/>
 
 #### 8
 [Halo Infinite](reviews/haloinfinite.md)<br/>
@@ -39,6 +41,7 @@
 [Deathloop](reviews/deathloop.md)<br/>
 [Dredge](reviews/2025/dredge.md)<br/>
 [Avatar Frontiers of Pandora](reviews/2025/avatarfrontiers.md)<br/>
+[Core Keeper](reviews/2026/corekeeper.md)<br/>
 
 #### 7.5
 [Creatures of Ava](reviews/creaturesofava.md)<br/>

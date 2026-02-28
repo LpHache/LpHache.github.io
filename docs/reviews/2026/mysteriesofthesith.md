@@ -1,5 +1,5 @@
 # Star Wars Jedi Knight II: Mysteries of the Sith
-<img style="float: left; padding-right:20px;" src="Image Link" alt="cover art" width="200"/>
+<img style="float: left; padding-right:20px;" src="https://upload.wikimedia.org/wikipedia/en/5/52/Mystery-of-the-Sith.jpg" alt="cover art" width="200"/>
 
 #### **Score: 8.5/10**
 
@@ -8,6 +8,8 @@
 ###### **Platform: PC**
 
 ###### **Storefront: GOG**
+<br/><br/>
+<br/><br/>
 <br/><br/>
 
 **Star Wars Jedi Knight II: Mysteries of the Sith** is basically a story sequel to one of my most cherished games of all time. It is an old school action FPS with some lightsaber combat sprinkled in. There are 14 missions were you play as both Kyle Katarn and Mara Jade trying to find a Sith Temple while avoiding and sabotaging the empire. Every level has a bunch of secrets and you get more force powers as the game progresses as well.<br/>

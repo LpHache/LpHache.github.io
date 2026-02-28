@@ -10,6 +10,9 @@ See also:
 ## 2026
 [Jedi Knight II Mysteries of the Sith](reviews/2026/mysteriesofthesith.md)<br/>
 [Shogun Showdown](reviews/2026/shogunshowdown.md)<br/>
+[Ball X Pit](reviews/2026/ballxpit.md)<br/>
+[Viewfinder](reviews/2026/viewfinder.md)<br/>
+[Core Keeper](reviews/2026/corekeeper.md)<br/>
 
 ## 2025
 [Neva](reviews/2025/neva.md)<br/>
