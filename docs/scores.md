@@ -9,6 +9,7 @@
 [Divinity: Original sin 2](reviews/divinityostwo.md)<br/>
 [Vampire Survivors](reviews/vampiresurvivors.md)<br/>
 [Neva](reviews/2025/neva.md)<br/>
+[Armored Core VI](reviews/2026/armoredcore6.md)<br/>
 
 #### 9
 [Total War: Warhammer III](reviews/totalwarwarhammeriii.md)<br/>
@@ -20,6 +21,7 @@
 [Marvel Rivals](reviews/marvelrivals.md)<br/>
 [Warframe](reviews/2025/warframe.md)<br/>
 [Viewfinder](reviews/2026/viewfinder.md)<br/>
+[Cassette Beasts](reviews/2026/cassettebeasts.md)<br/>
 
 #### 8.5
 [Plague Tale: Requiem](reviews/plaguetalerequiem.md)
@@ -42,6 +44,7 @@
 [Dredge](reviews/2025/dredge.md)<br/>
 [Avatar Frontiers of Pandora](reviews/2025/avatarfrontiers.md)<br/>
 [Core Keeper](reviews/2026/corekeeper.md)<br/>
+[Songs of Silence](reviews/2026/songsofsilence.md)<br/>
 
 #### 7.5
 [Creatures of Ava](reviews/creaturesofava.md)<br/>

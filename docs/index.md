@@ -13,6 +13,9 @@ See also:
 [Ball X Pit](reviews/2026/ballxpit.md)<br/>
 [Viewfinder](reviews/2026/viewfinder.md)<br/>
 [Core Keeper](reviews/2026/corekeeper.md)<br/>
+[Armored Core VI](reviews/2026/armoredcore6.md)<br/>
+[Songs of Silence](reviews/2026/songsofsilence.md)<br/>
+[Cassette Beasts](reviews/2026/cassettebeasts.md)<br/>
 
 ## 2025
 [Neva](reviews/2025/neva.md)<br/>
