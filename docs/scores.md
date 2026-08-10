@@ -10,6 +10,8 @@
 [Vampire Survivors](reviews/vampiresurvivors.md)<br/>
 [Neva](reviews/2025/neva.md)<br/>
 [Armored Core VI](reviews/2026/armoredcore6.md)<br/>
+[Alan wake 2](reviews/2026/alanwake2.md)<br/>
+[Doom: Dark Ages](reviews/2026/doomdarkages.md)<br/>
 
 #### 9
 [Total War: Warhammer III](reviews/totalwarwarhammeriii.md)<br/>
@@ -22,6 +24,7 @@
 [Warframe](reviews/2025/warframe.md)<br/>
 [Viewfinder](reviews/2026/viewfinder.md)<br/>
 [Cassette Beasts](reviews/2026/cassettebeasts.md)<br/>
+[Returnal](reviews/2026/returnal)<br/>
 
 #### 8.5
 [Plague Tale: Requiem](reviews/plaguetalerequiem.md)

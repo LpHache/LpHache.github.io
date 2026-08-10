@@ -16,6 +16,9 @@ See also:
 [Armored Core VI](reviews/2026/armoredcore6.md)<br/>
 [Songs of Silence](reviews/2026/songsofsilence.md)<br/>
 [Cassette Beasts](reviews/2026/cassettebeasts.md)<br/>
+[Alan Wake 2](reviews/2026/alanwake2.md)<br/>
+[Doom: Dark Ages](reviews/2026/doomdarkages.md)<br/>
+[Returnal](reviews/2026/returnal.md)<br/>
 
 ## 2025
 [Neva](reviews/2025/neva.md)<br/>
